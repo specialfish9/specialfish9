@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=specialfish9&theme=cobalt)
+
+⚡ Well known languages:
+  - Dart (Flutter)
+  - Java
+  - Javascript
+  - C# (Xamarin)
+  - C++
+  - PHP
+  - Python
+ 
+🌱 I’m currently learning:
+  - C
+  - Kotlin
+  
