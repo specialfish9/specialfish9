@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=specialfish9&theme=cobalt)
+![github stats](https://github-readme-stats.vercel.app/api?username=specialfish9&theme=cobalt)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=specialfish9&layout=compact&hide=swift&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡ Well known languages:
   - Dart (Flutter)
