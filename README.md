@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   - Python
  
 🌱 I’m currently learning:
+  - Haskell
   - C
   - Kotlin
   
