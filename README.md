@@ -32,4 +32,5 @@ Here are some ideas to get you started:
   - Haskell
   - C
   - Kotlin
+  - Swift
   
