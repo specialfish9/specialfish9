@@ -1,4 +1,4 @@
-### Hi 👋
+
 
 <!--
 **specialfish9/specialfish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   - Swift 
 -->
 
-⚡ No one can tell you that you are doing it the wrong way if no one knows what you are doing.
+### ⚡ No one can tell you that you are doing it the wrong way if no one knows what you are doing.
   
