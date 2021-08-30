@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **specialfish9/specialfish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![github stats](https://github-readme-stats.vercel.app/api?username=specialfish9&theme=cobalt)
 
 
@@ -32,5 +31,8 @@ Here are some ideas to get you started:
   - Haskell
   - C
   - Kotlin
-  - Swift
+  - Swift 
+-->
+
+⚡ No one can tell you that you are doing it the wrong way if no one knows what you are doing.
   
