@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   - Swift 
 -->
 
-### ⚡ No one can tell you that you are doing it the wrong way if no one knows what you are doing.
   
+<img src="https://i.pinimg.com/originals/49/aa/07/49aa07d58099f0c61a91cc227bf8864d.jpg"/>
